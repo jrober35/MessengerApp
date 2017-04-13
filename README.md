@@ -1,5 +1,3 @@
-# How to build an iOS messaging app
-
 # MessengerApp
 This app utilizes the SendBird messaging framework to implement a basic chat and messaging application for iOS.
 
